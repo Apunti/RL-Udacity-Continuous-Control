@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
-[image1]: https://github.com/Apunti/RL-Udacity-Continuous-Control/master/images/DDPG.png "DDPG"
-[image2]: https://github.com/Apunti/RL-Udacity-Continuous-Control/master/images/plot.png "Plot"
+[image1]: https://github.com/Apunti/RL-Udacity-Continuous-Control/blob/master/images/DDPG.png "DDPG"
+[image2]: https://github.com/Apunti/RL-Udacity-Continuous-Control/blob/master/images/plot.png "Plot"
 
 # Report
 
