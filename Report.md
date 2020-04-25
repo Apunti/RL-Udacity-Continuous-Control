@@ -2,6 +2,7 @@
 
 [image1]: https://github.com/Apunti/RL-Udacity-Continuous-Control/blob/master/images/DDPG.png "DDPG"
 [image2]: https://github.com/Apunti/RL-Udacity-Continuous-Control/blob/master/images/plot.png "Plot"
+[image3]: https://github.com/Apunti/RL-Udacity-Continuous-Control/blob/master/images/log.png "Log"
 
 # Report
 
@@ -29,6 +30,7 @@ The hyperparameters used are:
 ### Plot of rewards
 
 ![Plot][image2]
+![Log][image3]
 
 We can see that the environment is solved around the episode 300.
 
